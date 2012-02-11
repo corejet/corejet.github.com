@@ -35,8 +35,8 @@ text-shadow:0 -1px rgba(0,0,0,0.5);
 }
 
 .highlight-char {
-color:#f17b27;
-text-shadow:0 3px 1px #bf3604,0 2px 2px rgba(0,0,0,0.4);
+color:#16b2f3;
+text-shadow:0 3px 1px #002587,0 2px 2px rgba(0,0,0,0.4);
 }
 
 a:focus,input:focus,textarea:focus {
@@ -44,7 +44,7 @@ outline:none !important;
 }
 
 a {
-color:#2A56FE;
+color:#002587;
 text-decoration:none;
 }
 
@@ -144,7 +144,7 @@ text-decoration:none;
 white-space:nowrap;
 line-height:60px;
 font-size:20px;
-color: #FFFF99;
+color: #16b2f3;
 font-weight: 600;
 padding:20px 10px;
 }
@@ -174,7 +174,7 @@ position:relative;
 }
 
 .main-bg,.home #main-bg,.layout-default #main-bg {
-background-color: #BADE7A;
+background-color: #008700;
 top:60px;
 z-index:0;
 position:fixed;
@@ -210,14 +210,14 @@ width:100%;
 text-shadow:0 3px rgba(0,0,0,0.5);
 margin-top:64px;
 font-size:42px;
-color:#FFFFDD;
+color:#002587;
 }
 
 #main-bg-wrapper .headlines h2 {
 margin-top:20px;
 margin-bottom:15px;
 font-size:28px;
-color:#FFFF99;
+color:#008700;
 }
 
 #main-bg-wrapper #corejetlogo {
@@ -281,7 +281,7 @@ div.meet h1 {
 font-size:20px;
 display:block;
 margin-bottom:8px;
-color:#2a5669;
+color:#002587;
 }
 
 div.meet .meet-text {
@@ -307,7 +307,7 @@ section h2 {
 display:inline-block;
 font-size:28px;
 font-weight:500;
-color:#bf3604;
+color:#008700;
 line-height:34px;
 margin-right:15px;
 }
@@ -344,7 +344,7 @@ font-weight: 700;
 }
 
 ul{
-color:#450;
+color:#008700;
 font-weight:400;
 line-height:22px;
 font-size:14px;
@@ -402,7 +402,7 @@ font-weight:700;
 -webkit-border-radius:10px;
 -webkit-background-clip:padding-box;
 border-radius:10px;
-border:1px solid #bf3604;
+border:1px solid #002587;
 font-size:11px;
 font-weight:700;
 color:#bf3604;
@@ -415,15 +415,15 @@ padding:2px 7px;
 }
 
 .apply-btn {
-background-color:#31657b;
+background-color:#002587;
 background:0;
--pie-background:linear-gradient(#31657b, #2a5669);
+-pie-background:linear-gradient(#002587, #002587);
 -moz-border-radius:25px;
 -webkit-border-radius:25px;
 -webkit-background-clip:padding-box;
 border-radius:25px;
 float:left;
-border-top:1px solid #4792b2;
+border-top:1px solid #002587;
 line-height:2.2em;
 display:block;
 color:#FFF;
@@ -451,9 +451,9 @@ opacity:1px;
 }
 
 #main-nav ul li a:visited,.blog-post-snippet .blog-date {
-color:#FFCC33;
+color:#16b2f3;
 }
 
 #main-nav ul li a:hover,#main-nav ul li.signin a:hover,.blog .right-column .blog-categories.cat-simple li.simple a,.category_index .right-column .blog-categories.cat-simple li.simple a,.blog .right-column .blog-categories.cat-economics li.economics a,.category_index .right-column .blog-categories.cat-economics li.economics a,.blog .right-column .blog-categories.cat-banking li.banking a,.category_index .right-column .blog-categories.cat-banking li.banking a,.blog .right-column .blog-categories.cat-saving li.saving a,.category_index .right-column .blog-categories.cat-saving li.saving a {
-color:#bf3604;
+color:#002587;
 }
