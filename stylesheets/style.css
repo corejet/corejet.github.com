@@ -306,14 +306,14 @@ section h2 {
 display:inline-block;
 font-size:28px;
 font-weight:500;
-color:#008700;
+color:#002587;
 line-height:34px;
 margin-right:15px;
 }
 
 section h3 {
 display:inline-block;
-color:#666;
+color:#008700;
 font-size:18px;
 font-weight:400;
 font-style:italic;
@@ -333,7 +333,7 @@ margin-bottom:25px;
 }
 
 ol{
-color:#450;
+color:#008700;
 font-weight:400;
 line-height:22px;
 font-size:14px;
@@ -390,7 +390,7 @@ color:#e3e3e3;
 }
 
 footer#footer #copyright {
-color:#e3e3e3;
+color:#008700;
 font-size:16px;
 margin:20px 0;
 font-weight:700;
