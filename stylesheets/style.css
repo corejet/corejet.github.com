@@ -207,7 +207,6 @@ width:100%;
 }
 
 #main-bg-wrapper .headlines h1 {
-text-shadow:0 3px rgba(0,0,0,0.5);
 margin-top:64px;
 font-size:42px;
 color:#002587;
@@ -427,7 +426,6 @@ border-top:1px solid #002587;
 line-height:2.2em;
 display:block;
 color:#FFF;
-text-shadow:0 -1px 0 rgba(0,0,0,0.2);
 font-size:18px;
 font-weight:700;
 margin:10px 0;
