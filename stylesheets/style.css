@@ -451,9 +451,9 @@ opacity:1px;
 }
 
 #main-nav ul li a:visited,.blog-post-snippet .blog-date {
-color:#16b2f3;
+color:#002587;
 }
 
 #main-nav ul li a:hover,#main-nav ul li.signin a:hover,.blog .right-column .blog-categories.cat-simple li.simple a,.category_index .right-column .blog-categories.cat-simple li.simple a,.blog .right-column .blog-categories.cat-economics li.economics a,.category_index .right-column .blog-categories.cat-economics li.economics a,.blog .right-column .blog-categories.cat-banking li.banking a,.category_index .right-column .blog-categories.cat-banking li.banking a,.blog .right-column .blog-categories.cat-saving li.saving a,.category_index .right-column .blog-categories.cat-saving li.saving a {
-color:#002587;
+color:#16b2f3;
 }
