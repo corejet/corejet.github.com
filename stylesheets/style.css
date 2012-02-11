@@ -174,7 +174,7 @@ position:relative;
 }
 
 .main-bg,.home #main-bg,.layout-default #main-bg {
-background-color: #ffffff;
+background-color: #d4e7d4;
 top:60px;
 z-index:0;
 position:fixed;
